@@ -18,4 +18,4 @@ As principais tecnologias utilizadas para desenvolver o projeto:
 | Visual Studio 2022 Community | O Microsoft Visual Studio é um conjunto de ambientes de desenvolvimento integrados desenvolvidos pela Microsoft. |
 
 
-**Made with ❤️ by Fabrício Pereira 👋**
+**Made with ❤️ by Rebeca Guimarães 👋**
